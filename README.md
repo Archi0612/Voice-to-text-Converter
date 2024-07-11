@@ -25,4 +25,6 @@ To use the voice-to-text generator:
 - react-speech-recognition library
 - CSS for styling
 
-[Link to Live Demo](https://your-live-demo-url.com)
+# Screenshot
+![image](https://github.com/Archi0612/Voice-to-text-Converter/assets/110686165/728d064f-05e3-4d31-ad02-45f49403634d)
+
